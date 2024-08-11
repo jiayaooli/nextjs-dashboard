@@ -33,7 +33,6 @@ export default function Page() {
           {/* Add Hero Images Here */}
             <Image src='/hero-desktop.png'
                    width={1000}
-                   vice
                    height={760}
                    className="hidden md:block"
                    alt="hero img" />
